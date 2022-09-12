@@ -1,5 +1,7 @@
 This README is currently empty
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pluers&theme=gruvbox&hide_border=true&layout=compact)](https://github.com/Pluers/github-readme-stats)
+
 <!---
 - 👋 Hi, I’m @Pluers
 - 👀 I’m interested in ...
